@@ -36,6 +36,3 @@ To get started with the boilerplate, you can follow these steps:
 
 If you have any feedback or suggestions for the boilerplate, please let me know by opening an issue or sending a pull request. I'm open to any ideas that can improve the project and make it more useful for the Flutter community.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
