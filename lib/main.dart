@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'tab1.dart';
+import 'tab2.dart';
+import 'tab3.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -24,6 +28,11 @@ class MyApp extends StatelessWidget {
               Tab(icon: Icon(Icons.watch),),
             ]),
           ),
+          body: const TabBarView(children: <Widget>[
+            Tab1(),
+            Tab2(),
+            Tab3(),
+          ]),
         ),
       ),
     );
